@@ -75,11 +75,11 @@ This project exists because of your time, effort, and curiosity.
 
 - **Name:** Mukut Kumar
 - **GitHub:** https://github.com/MK-codes365
-- **About:** Second-year B.Tech student in Computer Science. Passionate about Full Stack Development and Open Source."
+- **About:** Second-year B.Tech student in Computer Science. Passionate about Full Stack Development and Open Source.
 
 - **Name:** Apoorv Mittal
 - **GitHub:** https://github.com/Apoorv012
-- **About:** Third-year B.Tech student in Computer Science. Passionate about Backend development"
+- **About:** Third-year B.Tech student in Computer Science. Passionate about Backend development.
 
 - **Name:** Mannat Jain
 - **GitHub:** https://github.com/MK-codes365
@@ -87,7 +87,7 @@ This project exists because of your time, effort, and curiosity.
 
 - **Name:** Akshat Parmar
 - **GitHub:** https://github.com/AkshaTGA
-- **About:** Second-year B.Tech student in Computer Science. Passionate about Backend development :]"
+- **About:** Second-year B.Tech student in Computer Science. Passionate about Backend development :]
 
 - **Name:** Krishna Sikheriya  
 - **GitHub:** https://github.com/Krishna200608  
@@ -108,4 +108,13 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Ashutosh kesarwani 
 - **GitHub:** https://github.com/Lucifer-0612 
 - **About:** I am 2nd year CSE student at Haldia Institute of Technology. I am here to learn about open source contributions. 
+- **About:** I'm a first-year IT undergrad at IIIT Allahabad, passionate about learning programming, web development, and exploring the world of AI.
+
+- **Name:** Naman Pal
+- **GitHub:** https://github.com/Naman2251
+- **About:** I am B.Tech. IT first year student at IIIT Allahabad. Grateful to be a part of OpenCode program.
+
+- **Name:** Atharva Mehta
+- **GitHub:** https://github.com/Atharva-insane
+- **About:** Science enthusiast
 
