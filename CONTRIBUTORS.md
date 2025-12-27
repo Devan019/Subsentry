@@ -96,3 +96,8 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Vrajkumar Shah
 - **GitHub:** https://github.com/vraj826
 - **About:** 1st Year CSE student at Dharmsinh Desai University, Nadiad. Here to learn about Open-Source Contributions.
+
+
+- **Name:** NAVDEEP R
+- **GitHub:** https://github.com/navdeep-r
+- **About:** sophomore jumpin into open source much deeper
